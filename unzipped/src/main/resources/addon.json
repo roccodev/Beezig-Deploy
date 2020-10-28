@@ -1,0 +1,11 @@
+{
+  "uuid": "%uuid%",
+  "name": "Beezig - The Hive Support",
+  "author": "Beezig Team (RoccoDev, ItsNiklass, and archer_321)",
+  "description": "Provides support for The Hive, with advanced modules and features.",
+  "category": 3,
+  "mainClass": "eu.beezig.laby.LabyMain",
+  "icon": "https://rocco.dev/beezighosting/laby/icon/logo.png",
+  "transformerClass": "eu.beezig.laby.asm.BeezigTransformer",
+  "version": 1
+}
